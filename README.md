@@ -10,9 +10,7 @@ whichever account they want to. The program utilizes a list to give an ID to eac
 I wanted to write a program that has some real world application, I also think that working with menus is good because pretty much every software
 uses menus. Lists I think are heavily utilized in many programs and wanted to be able to learn how to use them in C++.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7bjn8qmGipk)
 
 # Development Environment
 
@@ -22,10 +20,7 @@ C++ and Visual Studio with the corresponding kit.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+https://www.w3schools.com/cpp/
 
 # Future Work
 
