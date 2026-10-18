@@ -24,8 +24,6 @@ https://www.w3schools.com/cpp/
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+- Passwords for Users
+- Interest that Manager can set
 
-- Item 1
-- Item 2
-- Item 3
